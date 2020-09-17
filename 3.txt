@@ -1,7 +1,5 @@
 dsdsd
-<<<<<<< HEAD
 This is edited from master branch
-=======
 This is checnged from issue 54 branch
->>>>>>> iss54
 asas
+dsd
